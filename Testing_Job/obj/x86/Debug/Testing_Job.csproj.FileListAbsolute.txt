@@ -1,0 +1,12 @@
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\bin\Debug\Testing_Job.rxtmg
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\bin\Debug\Testing_Job.rxtst
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\bin\Debug\Testing_Job.exe.config
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\bin\Debug\Testing_Job.xml
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\bin\Debug\Testing_Job.exe
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\bin\Debug\Testing_Job.pdb
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\obj\x86\Debug\Testing_Job.csproj.AssemblyReference.cache
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\obj\x86\Debug\Testing_Job.csproj.CoreCompileInputs.cache
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\obj\x86\Debug\Testing_Job.csproj.CopyComplete
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\obj\x86\Debug\Testing_Job.exe
+C:\Users\Manikandan\Documents\Ranorex\RanorexStudio Projects\Testing_Job\Testing_Job\obj\x86\Debug\Testing_Job.pdb
